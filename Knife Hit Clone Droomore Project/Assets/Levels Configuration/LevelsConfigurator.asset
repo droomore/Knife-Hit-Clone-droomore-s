@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 512d9ba2e0aab48a38282e103ed3f3ac, type: 3}
+  m_Name: LevelsConfigurator
+  m_EditorClassIdentifier: 
+  _knivesAmountOnLevel: {x: 3, y: 10}
+  _cyclePatterns:
+  - {fileID: 11400000, guid: df171e88e211a4776bb5d394d4eba160, type: 2}
+  - {fileID: 11400000, guid: e86c68af41ccb488ba7bab80a3161f9c, type: 2}
+  - {fileID: 11400000, guid: 77272384dd9f04a8688e87ce8678aa7b, type: 2}
+  - {fileID: 11400000, guid: 74cd3ec8526404fcbaf752b921086dff, type: 2}
+  - {fileID: 11400000, guid: 370e4bc3337594391b6d346553792e60, type: 2}
+  _appleChance: 0.25
